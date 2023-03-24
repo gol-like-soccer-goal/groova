@@ -1,0 +1,124 @@
+{
+  "cultural_date_format": "%d-%m-%Y",
+  "languages": ["English", "Español"],
+  "translation": [
+    {"English": "Change Language",
+      "Español": "Cambiar Idioma"
+    },
+      {"English": "Upload Data",
+        "Español": "Subir Datos"
+      },
+      {
+        "English": "Upload Data Spreadsheet",
+        "Español": "Subir Hoja de Cálculo"
+      },
+
+      {
+        "English": "Bar Graph 1",
+        "Español": "Gráfico de Barras 1"
+      },
+
+      {
+        "English": "Bar Graph 2",
+        "Español": "Gráfico de Barras 2"
+      },
+      
+      {
+        "English": "Bar Graph 3",
+        "Español": "Gráfico de Barras 3"
+      },
+
+      {
+        "English": "Scatter Plot",
+        "Español": "Gráfico de Dispersión"
+      },
+
+      {
+        "English": "Categorical Variable (X)",
+        "Español": "Variable Categórica (X)"
+      },
+
+      {
+        "English": "Graph Title",
+        "Español": "Título del Gráfico"
+      },
+
+      {
+        "English": "Graph it!",
+        "Español": "¡Graficarlo!"
+      },
+
+      {
+        "English": "Download Graph",
+        "Español": "Descargar Gráfico"
+      },
+      
+      {
+        "English": "Download Story",
+        "Español": "Descargar El Cuento"
+      },
+      
+       {
+        "English": "Data Story Notes",
+        "Español": "Las Notas del Cuento"
+      },
+
+      {
+        "English": "Legend",
+        "Español": "Leyenda"
+      },
+
+      {
+        "English": "Numeric Variable (Y)",
+        "Español": "Variable Numérica (Y)"
+      },
+
+
+      {
+        "English": "Grouping Variable",
+        "Español": "Variable de Agrupación"
+      },
+
+      {
+        "English": "Not Selected",
+        "Español": "Nada Seleccionado"
+      },
+
+      {
+        "English": "Labels",
+        "Español": "Etiquetas"
+      },
+
+      {
+        "English": "About",
+        "Español": "Acerca de"
+      },
+
+      {
+        "English": "GROOVA is developed by Golnaz Arastoopour Irgens at Clemson University",
+        "Español": "GROOVA ha sido desarrollada por Golnaz Arastoopour Irgens en la Universidad de Clemson"
+      },
+
+      {
+        "English": "Feedback provided from the wonderful teachers and children at McKissick Elementary in Easley, SC",
+        "Español": "Los excelentes profesores y estudiantes de la Escuela McKissick Elementary en Easley, SC han brindado retroalimentación"
+      },
+
+      {
+        "English": "This project is supported by the National Science Foundation (DRL-2031175)",
+        "Español": "Este proyecto es apoyado por la National Science Foundation (DRL-2031175)"
+      },
+
+      {
+        "English": "For more information visit",
+        "Español": "Para más información visita"
+      },
+      
+      {
+        "English": "Download Data Story",
+        "Español": "Descargar El Cuento de Datos"
+      }
+
+      
+    ]
+}
